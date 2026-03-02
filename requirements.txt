@@ -1,0 +1,10 @@
+langchain-google-genai
+langchain-groq
+langchain-core
+langgraph
+tavily-python
+boto3
+streamlit
+python-dotenv
+reportlab
+google-generativeai
